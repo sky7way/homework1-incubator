@@ -10,10 +10,10 @@ import s2 from '../../s1-main/App.module.css'
 * 5 - указать нужный тип в useState с affairs --- done
 * 6 - дописать тип и логику функции deleteAffairCallback --- done
 * 7 - в файле Affairs.tsx дописать типизацию пропсов --- done
-* 8 - в файле Affairs.tsx дописать логику функций setAll, setHigh, setMiddle, setLow ---done
-* 9 - в файле Affair.tsx дописать типизацию пропсов
-* 10 - в файле Affair.tsx дописать функции deleteCallback и использовать
-* 11 - в файле Affair.tsx отобразить приходящие данные
+* 8 - в файле Affairs.tsx дописать логику функций setAll, setHigh, setMiddle, setLow --- done
+* 9 - в файле Affair.tsx дописать типизацию пропсов --- done
+* 10 - в файле Affair.tsx дописать функции deleteCallback и использовать --- done
+* 11 - в файле Affair.tsx отобразить приходящие данные --- done
 * */
 
 // types
